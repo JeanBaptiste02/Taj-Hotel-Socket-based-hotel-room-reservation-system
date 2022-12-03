@@ -9,7 +9,7 @@ L'aspect principal de ce projet repose sur les sockets (communication entre le c
 
 Vous pouvez accéder a l'actualité en suivant le lien ci-dessous:
  
-DayBreaks ##### http://tajhotel.alwaysdata.net/
+DayBreaks http://tajhotel.alwaysdata.net/
 
 
 ## Language de Programmation
@@ -28,4 +28,4 @@ Java, C, PHP et PSQL
 Nous avons utilisé un plateforme gratuit pour l'hébergement de notre site web : [AlwaysData ](https://www.alwaysdata.com/fr/) (à définir)
 
 
-![CY Cergy Paris Université](https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/Logo_CY_Cergy_Paris_Universit%C3%A9.svg/129px-Logo_CY_Cergy_Paris_Universit%C3%A9.svg.png)
+![CY Cergy Paris Université](https://www.actuia.com/wp-content/uploads/2020/09/logo20CY20UCP202.png)
