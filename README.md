@@ -7,7 +7,7 @@
 Taj Hotel est un site permettant de réserver des chambre dans l'hôtel.
 L'aspect principal de ce projet repose sur les sockets (communication entre le côté client et le côté serveur).
 
-Vous pouvez accéder a l'actualité en suivant le lien ci-dessous:
+Vous pouvez accéder au site en suivant le lien ci-dessous:
  
 Taj Hotel http://tajhotel.alwaysdata.net/
 
